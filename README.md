@@ -131,7 +131,7 @@ Các hướng cải tiến dự kiến:
 
 ## 7. Tài liệu dự án
 
-- **Báo cáo gốc:** `LTH_ThongKe(1).pdf` — tiểu luận gồm 40 trang, trình bày EDA, mô hình, ma trận nhầm lẫn và bảng so sánh kết quả.
+- **Báo cáo gốc:** `LTH_ThongKe.pdf` — tiểu luận gồm 40 trang, trình bày EDA, mô hình, ma trận nhầm lẫn và bảng so sánh kết quả.
 - **Tài liệu tham khảo:** Slide và bài giảng học phần Lý thuyết học thống kê của giảng viên Đặng Phước Huy.
 
 README này mô tả kết quả trong báo cáo gốc. Hướng dẫn chạy lại sẽ được bổ sung cùng mã nguồn R, dữ liệu và danh sách thư viện phụ thuộc.
